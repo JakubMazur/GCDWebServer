@@ -34,7 +34,6 @@ let package = Package(
                 "format-source.sh",
                 "README.md",
                 "LICENSE",
-				"GCDWebUploader/GCDWebUploader.bundle/Contents/Resources/fonts/glyphicons-halflings-regular.woff"
             ],
             resources: [
                 .copy("GCDWebUploader/GCDWebUploader.bundle"),
