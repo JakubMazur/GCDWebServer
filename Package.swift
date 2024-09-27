@@ -33,7 +33,7 @@ let package = Package(
                 "Run-Tests.sh",
                 "format-source.sh",
                 "README.md",
-                "LICENSE"
+                "LICENSE",
             ],
             resources: [
                 .copy("GCDWebUploader/GCDWebUploader.bundle"),
